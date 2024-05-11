@@ -1,0 +1,31 @@
+Patient Name: John Doe
+Date of Birth: MM/DD/YYYY
+Date: [Today's Date]
+Patient ID: 123456789
+
+Diagnosis:
+Common Cold
+
+Prescription:
+Ibuprofen 200 mg Tablets
+
+Usage: Reduces fever and relieves pain associated with the common cold.
+Dosage: Take one tablet every 4-6 hours as needed for fever or pain.
+Instructions: Do not exceed 6 tablets in 24 hours. Take with food or milk if stomach upset occurs.
+Duration: Continue as needed for up to 5 days.
+Sudafed (Pseudoephedrine) 30 mg Tablets
+
+Usage: Relieves nasal congestion and sinus pressure.
+Dosage: Take one tablet every 4-6 hours as needed.
+Instructions: Do not take more than 4 tablets in 24 hours. Use with caution if you have high blood pressure or heart problems.
+Duration: Use for up to 7 days. Consult a doctor if symptoms persist.
+Benadryl (Diphenhydramine) 25 mg Capsules
+
+Usage: Relieves runny nose, sneezing, itchy or watery eyes, and itching of the nose or throat.
+Dosage: Take one capsule every 4-6 hours as needed.
+Instructions: Do not exceed 6 capsules in 24 hours. Caution: May cause drowsiness. Do not drive or operate heavy machinery after taking.
+Duration: Use for up to 5 days. If symptoms continue, consult a physician.
+Additional Instructions:
+Drink plenty of fluids.
+Get ample rest.
+Avoid smoking and exposure to secondhand smoke.
